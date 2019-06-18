@@ -1,17 +1,24 @@
 {
   "name": "@58fe/bable-plugin-p5-import",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "针对p5组件库的按需加载bable插件",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [ "58", "p5", "vue", "按需加载", "vue-components", "ui"],
+  "keywords": [
+    "58",
+    "p5",
+    "vue",
+    "按需加载",
+    "vue-components",
+    "ui"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CrazyaCoding/bable-plugin-p5-import.git"
   },
-  "author": "",
+  "author": "shangpanpan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/CrazyaCoding/bable-plugin-p5-import/issues"
